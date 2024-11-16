@@ -1,0 +1,15 @@
+# ninja log v6
+44	5419	7534226781841893	CMakeFiles/Pokemon_Adventure.dir/Market.cpp.obj	b3022fae9c339ec1
+32	5831	7534226781725660	CMakeFiles/Pokemon_Adventure.dir/KantoPokemon.cpp.obj	72771d037a7c8aa3
+51	5833	7534226781925531	CMakeFiles/Pokemon_Adventure.dir/Player.cpp.obj	607772e66c79367a
+19	5834	7534226781592648	CMakeFiles/Pokemon_Adventure.dir/globals.cpp.obj	16e82e5e3ae408a1
+7	6534	7534226781472420	CMakeFiles/Pokemon_Adventure.dir/main.cpp.obj	47946ad90454fb28
+6534	7005	7534226846740029	Pokemon_Adventure.exe	a3d75c0e88ef2c06
+96	3691	7534229463102140	CMakeFiles/Pokemon_Adventure.dir/globals.cpp.obj	16e82e5e3ae408a1
+3693	4078	7534229499071532	Pokemon_Adventure.exe	a3d75c0e88ef2c06
+206	4791	7534232884062362	CMakeFiles/Pokemon_Adventure.dir/globals.cpp.obj	16e82e5e3ae408a1
+190	5727	7534232883898878	CMakeFiles/Pokemon_Adventure.dir/main.cpp.obj	47946ad90454fb28
+5727	6307	7534232939270106	Pokemon_Adventure.exe	a3d75c0e88ef2c06
+76	4942	7534234213162554	CMakeFiles/Pokemon_Adventure.dir/globals.cpp.obj	16e82e5e3ae408a1
+66	5486	7534234213063607	CMakeFiles/Pokemon_Adventure.dir/main.cpp.obj	47946ad90454fb28
+5487	6122	7534234267267090	Pokemon_Adventure.exe	a3d75c0e88ef2c06

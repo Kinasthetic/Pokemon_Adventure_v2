@@ -1,0 +1,152 @@
+Name,Rarity
+Bulbasaur,Uncommon
+Ivysaur,Rare
+Venusaur,Super Rare
+Charmander,Uncommon
+Charmeleon,Rare
+Charizard,Super Rare
+Squirtle,Uncommon
+Wartortle,Rare
+Blastoise,Super Rare
+Caterpie,Common
+Metapod,Uncommon
+Butterfree,Rare
+Weedle,Common
+Kakuna,Uncommon
+Beedrill,Rare
+Pidgey,Common
+Pidgeotto,Uncommon
+Pidgeot,Rare
+Rattata,Common
+Raticate,Uncommon
+Spearow,Common
+Fearow,Uncommon
+Ekans,Common
+Arbok,Uncommon
+Pikachu,Uncommon
+Raichu,Rare
+Sandshrew,Common
+Sandslash,Uncommon
+Nidoran♀,Common
+Nidorina,Uncommon
+Nidoqueen,Rare
+Nidoran♂,Common
+Nidorino,Uncommon
+Nidoking,Rare
+Clefairy,Uncommon
+Clefable,Rare
+Vulpix,Uncommon
+Ninetales,Rare
+Jigglypuff,Uncommon
+Wigglytuff,Rare
+Zubat,Common
+Golbat,Uncommon
+Oddish,Common
+Gloom,Uncommon
+Vileplume,Rare
+Paras,Common
+Parasect,Uncommon
+Venonat,Common
+Venomoth,Uncommon
+Diglett,Common
+Dugtrio,Uncommon
+Meowth,Common
+Persian,Uncommon
+Psyduck,Common
+Golduck,Uncommon
+Mankey,Uncommon
+Primeape,Uncommon
+Growlithe,Uncommon
+Arcanine,Rare
+Poliwag,Common
+Poliwhirl,Uncommon
+Poliwrath,Rare
+Abra,Common
+Kadabra,Uncommon
+Alakazam,Super Rare
+Machop,Common
+Machoke,Uncommon
+Machamp,Super Rare
+Bellsprout,Common
+Weepinbell,Uncommon
+Victreebel,Rare
+Tentacool,Uncommon
+Tentacruel,Rare
+Geodude,Common
+Graveler,Uncommon
+Golem,Rare
+Ponyta,Uncommon
+Rapidash,Rare
+Slowpoke,Uncommon
+Slowbro,Rare
+Magnemite,Common
+Magneton,Uncommon
+Farfetch'd,Rare
+Doduo,Uncommon
+Dodrio,Rare
+Seel,Common
+Dewgong,Rare
+Grimer,Common
+Muk,Rare
+Shellder,Common
+Cloyster,Rare
+Gastly,Common
+Haunter,Uncommon
+Gengar,Super Rare
+Onix,Rare
+Drowzee,Common
+Hypno,Uncommon
+Krabby,Common
+Kingler,Rare
+Voltorb,Common
+Electrode,Rare
+Exeggcute,Uncommon
+Exeggutor,Rare
+Cubone,Common
+Marowak,Rare
+Hitmonlee,Rare
+Hitmonchan,Rare
+Lickitung,Rare
+Koffing,Common
+Weezing,Rare
+Rhyhorn,Uncommon
+Rhydon,Rare
+Chansey,Rare
+Tangela,Uncommon
+Kangaskhan,Rare
+Horsea,Common
+Seadra,Uncommon
+Goldeen,Common
+Seaking,Rare
+Staryu,Common
+Starmie,Rare
+Mr. Mime,Rare
+Scyther,Rare
+Jynx,Rare
+Electabuzz,Rare
+Magmar,Rare
+Pinsir,Rare
+Tauros,Rare
+Magikarp,Common
+Gyarados,Super Rare
+Lapras,Super Rare
+Ditto,Super Rare
+Eevee,Rare
+Vaporeon,Super Rare
+Jolteon,Super Rare
+Flareon,Super Rare
+Porygon,Uncommon
+Omanyte,Uncommon
+Omastar,Super Rare
+Kabuto,Uncommon
+Kabutops,Super Rare
+Aerodactyl,Super Rare
+Snorlax,Super Rare
+Articuno,Legendary
+Zapdos,Legendary
+Moltres,Legendary
+Dratini,Uncommon
+Dragonair,Rare
+Dragonite,Super Rare
+Mewtwo,Legendary
+Mew,Mythical

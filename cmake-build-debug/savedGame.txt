@@ -1,0 +1,18 @@
+Player: t
+Gender: m
+Pokecoins: 1000
+Pokéballs: 15
+Greatballs: 5
+Ultraballs: 1
+Masterballs: 0
+Amulet Coins: 0
+Shiny Charms: 0
+Pokébox: 
+Pokébox entry1: Charmander
+Pokébox Size: 1
+Pokédex: 
+Pokédex entry1: Charmander
+Pokédex Size: 1
+Lifetime Pokémon Caught: 1
+Lifetime Lootboxes Opened: 0
+Lifetime Balls Used: 0

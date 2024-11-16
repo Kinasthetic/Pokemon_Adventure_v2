@@ -1,0 +1,3 @@
+C:/Users/shado_zlalbvk/CLionProjects/Pokemon-Adventure/cmake-build-debug/CMakeFiles/Pokemon_Adventure.dir
+C:/Users/shado_zlalbvk/CLionProjects/Pokemon-Adventure/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shado_zlalbvk/CLionProjects/Pokemon-Adventure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
